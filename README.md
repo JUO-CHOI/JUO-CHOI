@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juo%20Github&render&fontSize=85)
 
-# Contact
+## Contact
 <!-- 이름 : 최주오 -->
 
 T. +82 10-5016-5252
