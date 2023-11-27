@@ -3,8 +3,6 @@
 ## Contact
 <!-- 이름 : 최주오 -->
 
-T. +82 10-5016-5252
-
 A. Hanam-si, Gyeonggi-do, Republic of Korea
 
 M. juochoi92@gmail.com
