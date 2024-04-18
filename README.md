@@ -7,8 +7,6 @@ A. Hanam-si, Gyeonggi-do, Republic of Korea
 
 M. juochoi92@gmail.com
 
-S. <a href="https://instagram.com/giveme_kro.l?igshid=M2RkZGJiMzhjOQ%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
 ## Education
 
 ### Bachelor' degree of Smart ICT Convergence
